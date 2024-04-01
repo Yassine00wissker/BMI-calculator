@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(94, 174, 185, 0.342);
+    font-style: normal;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    background-color: rgba(0, 255, 255, 0.256);
+    height: 4rem;
+    width: 100%;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 3rem;
+}
+fieldset{
+    height: 8rem;
+    max-width: 35rem;
+    background-color: rgba(127, 255, 212, 0.42);
+    text-align: center;
+    
+}
+legend{
+    font-size:3rem;
+}
+input{
+    height: 2rem;
+    font-size: 2rem;
+}
+div{
+    margin-left: 35%;
+}
